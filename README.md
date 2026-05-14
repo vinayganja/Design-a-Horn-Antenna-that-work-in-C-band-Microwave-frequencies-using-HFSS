@@ -30,4 +30,3 @@ The optimized design demonstrates strong performance with low return loss, good 
 
 **Status**: Successfully simulated and validated (October 2025)
 
-Feel free to use or modify this as needed for your GitHub README! Let me know if you want a longer version, features section, or folder structure suggestion.
